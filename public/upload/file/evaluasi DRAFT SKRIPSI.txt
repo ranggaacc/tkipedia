@@ -1,0 +1,26 @@
+-pengisian form
+-download
+-tanda tangan
+
+
+-peminjaman ruangan
+-approvement nanti dicari
+
+
+
+
+evaluasi 
+-penulisan latar belakang kurang ilmiah
+-formulasi masalah
+-solusi paper terkait
+-fokus mvc bukan laravel
+-latar belakang minimal 1 halaman
+-penjelasan secara umum
+-yang ideal secara apa
+-compare with other paper(cite)
+-conclussion
+-metode
+-perumusan masalah problem/question
+-jangan terlalu teknis
+-tujuan penelitian per point sesuai perumusan masalah
+  

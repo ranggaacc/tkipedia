@@ -1,0 +1,31 @@
+@import 'variables';
+
+.btn-primary {
+  background: $color-primary;
+  border-color: $color-primary;
+  &:hover {
+    background: darken($color-primary, 20%);
+    border-color: darken($color-primary, 20%);
+  }
+}
+
+.btn-ghost-primary {
+  background: transparent;
+  border-color: $color-primary;
+  color: $color-primary;
+  &:hover {
+    background: $color-primary;
+    color: #FFF;
+  }
+}
+
+.btn-secondary {
+  background: $color-accent;
+  border-color: $color-accent;
+  color: #FFF;
+  &:hover {
+    background: darken($color-accent, 20%);
+    border-color: darken($color-accent, 20%);
+    color: #FFF;
+  }
+}
